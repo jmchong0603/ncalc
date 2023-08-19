@@ -85,7 +85,7 @@ Lists can be used to assign values to multiple variables at once:
 2
 ```
 
-Many operations, like addition and multiplication, “thread” over lists, i.e. lists are combined element-wise:
+Many operations, like addition and multiplication, “thread�? over lists, i.e. lists are combined element-wise:
 ```
 >> {1, 2, 3} + {4, 5, 6}
 {5,7,9}

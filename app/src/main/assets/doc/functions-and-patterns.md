@@ -122,7 +122,7 @@ You can also specify a list of rules:
 {4.0,100.0,9.0,2.5,100.0,c}
 ```
 
-There is a “delayed” version of `Rule` which can be specified by `:>` (similar to the relation of `:=` to `=`):
+There is a “delayed�? version of `Rule` which can be specified by `:>` (similar to the relation of `:=` to `=`):
 ```
 >> a :> 1 + 2
 a:>1+2

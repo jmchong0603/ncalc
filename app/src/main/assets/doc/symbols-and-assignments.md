@@ -53,7 +53,7 @@ Now changing a does not affect b:
 4
 ```
 
-Such a dependency can be achieved by using “delayed assignment” with the `:=` operator 
+Such a dependency can be achieved by using “delayed assignment�? with the `:=` operator 
 (which does not return anything, as the right side is not even evaluated):
 ```
 >> b := a ^ 2

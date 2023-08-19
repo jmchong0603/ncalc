@@ -1,7 +1,7 @@
 ## Scoping
 
-By default, all symbols are “global” in Symja, i.e. they can be read and written in any part of your program.
-However, sometimes “local” variables are needed in order not to disturb the global namespace. 
+By default, all symbols are “global�? in Symja, i.e. they can be read and written in any part of your program.
+However, sometimes “local�? variables are needed in order not to disturb the global namespace. 
 Symja provides two ways to support this:
 
 * lexical scoping by `Module`, and
